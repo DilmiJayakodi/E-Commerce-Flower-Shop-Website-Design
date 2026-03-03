@@ -58,7 +58,8 @@ This template is suitable for:
 
 ### 🏠 Home Page
 
-[Home Page](./1.home-page.png)`)
+[Home Page](./1.home-page.png)
+<img width="1875" height="911" alt="1 home page" src="https://github.com/user-attachments/assets/4d33bc90-fd82-4731-b421-9a7aa847f93c" />
 
 ---
 
