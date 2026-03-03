@@ -58,8 +58,7 @@ This template is suitable for:
 
 ### 🏠 Home Page
 
-(Add your screenshot image here using:
-`![Home Page](./1.home-page.png)`)
+[Home Page](./1.home-page.png)`)
 
 ---
 
