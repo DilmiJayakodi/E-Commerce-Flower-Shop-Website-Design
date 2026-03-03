@@ -5,7 +5,7 @@ This project demonstrates advanced CSS skills, including Flexbox, Grid, and resp
 
 🌐 View Live Demo Here
 
-[(Replace this link with your actual GitHub Pages link)](https://dilmijayakodi.github.io/E-Commerce-Flower-Shop-Website-Design/)
+[(Live Demo)](https://dilmijayakodi.github.io/E-Commerce-Flower-Shop-Website-Design/)
 
 Project Preview
 📖 About The Project
