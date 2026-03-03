@@ -15,17 +15,17 @@ This repository contains the source code for a modern flower shop landing page. 
 The main goal of this project was to demonstrate how far pure CSS can go in creating professional, responsive layouts without relying on heavy libraries.
 ✨ Key Features
 
-    🛠 Pure HTML5 & CSS3: No frameworks used. Built from scratch to demonstrate core web development skills.
-    📱 Fully Responsive: Mobile-first design that adapts perfectly to desktops, tablets, and mobile devices.
-    🎨 Modern Aesthetics: Clean typography, hover effects, and organized layout structure.
-    ⚡ High Performance: Lightning fast load times due to zero dependencies.
-    🧩 CSS Grid & Flexbox: Smart layout techniques used for structural integrity.
+🛠 Pure HTML5 & CSS3: No frameworks used. Built from scratch to demonstrate core web development skills.
+📱Fully Responsive: Mobile-first design that adapts perfectly to desktops, tablets, and mobile devices.
+🎨 Modern Aesthetics: Clean typography, hover effects, and organized layout structure.
+⚡ High Performance: Lightning fast load times due to zero dependencies.
+🧩 CSS Grid & Flexbox: Smart layout techniques used for structural integrity.
 
 🛠 Technologies Used
 
-    HTML5: Semantic structuring for accessibility and SEO.
-    CSS3: Custom properties (variables), Flexbox, Grid, and media queries.
+HTML5: Semantic structuring for accessibility and SEO.
+CSS3: Custom properties (variables), Flexbox, Grid, and media queries.
 
 📸 Screenshots
-  1.home-page.png
+  <img width="1875" height="911" alt="1 home page" src="https://github.com/user-attachments/assets/8d05f875-5208-43dc-bff7-c5f2c353d03b" />
 
