@@ -27,5 +27,8 @@ HTML5: Semantic structuring for accessibility and SEO.
 CSS3: Custom properties (variables), Flexbox, Grid, and media queries.
 
 📸 Screenshots
+
+  Home Page
+  
   <img width="1875" height="911" alt="1 home page" src="https://github.com/user-attachments/assets/8d05f875-5208-43dc-bff7-c5f2c353d03b" />
 
