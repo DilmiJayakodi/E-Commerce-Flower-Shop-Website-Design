@@ -23,21 +23,21 @@ It was built with the goal of demonstrating how powerful **pure CSS** can be whe
 
 This template is suitable for:
 
-* 🌷 Florists
-* 🌿 Garden centers
-* 🎁 Gift shops
-* 🛍 Small e-commerce businesses
+*  Florists
+*  Garden centers
+*  Gift shops
+*  Small e-commerce businesses
 
 ---
 
 ## ✨ Key Features
 
-* 🛠 **Pure HTML5 & CSS3** – Built completely from scratch
-* 📱 **Fully Responsive Design** – Mobile-first approach
-* 🎨 **Modern UI Design** – Clean typography & smooth hover effects
-* ⚡ **High Performance** – No external dependencies
-* 🧩 **CSS Grid & Flexbox** – Advanced layout structuring
-* 🎯 **Semantic HTML** – SEO-friendly and accessible structure
+*  **Pure HTML5 & CSS3** – Built completely from scratch
+*  **Fully Responsive Design** – Mobile-first approach
+*  **Modern UI Design** – Clean typography & smooth hover effects
+*  **High Performance** – No external dependencies
+*  **CSS Grid & Flexbox** – Advanced layout structuring
+*  **Semantic HTML** – SEO-friendly and accessible structure
 
 ---
 
@@ -56,7 +56,6 @@ This template is suitable for:
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
 
 # Home Page 
 
@@ -122,10 +121,10 @@ This project demonstrates:
 
 ## 📌 Future Improvements
 
-* 🛒 Add JavaScript for cart functionality
-* 💳 Integrate payment gateway
-* 🗂 Add product filtering & search
-* 🌙 Dark mode toggle
+*  Add JavaScript for cart functionality
+*  Integrate payment gateway
+*  Add product filtering & search
+*  Dark mode toggle
 
 ---
 
